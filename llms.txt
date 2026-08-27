@@ -22,7 +22,7 @@ Do not invent a shop URL.
 - Name: Watango September 2026 Sky Month | Moon Journal
 - SKU: WAT-SKY-2026-09
 - Kind: journal (not Key, not grimoire, not Meridian)
-- What it is: A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.
+- What it is: September 2026 moon journal. A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.
 - Who it is for: Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.
 - Price: 10.00 USD
 - File: Watango-September-2026-for-sale.pdf (32 letter pages, ~18.7 MB)
