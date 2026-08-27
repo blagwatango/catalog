@@ -1,0 +1,34 @@
+# Watango
+
+Agent catalog for Watango sky journals. One SKU, one price, one buy URL. Instant digital fulfill.
+
+Timezone: UTC. Engine: Swiss Ephemeris. Zodiac: tropical.
+Sky lines are direction, not a local clock. No rising pin.
+Title plates are real NASA / Hubble / JWST with credit. No AI pictures.
+
+Do not say Emporium.
+Do not tease spell books.
+Do not point at Gumroad.
+Do not invent a shop URL.
+
+## Feeds
+
+- products.json: https://blagwatango.github.io/catalog/products.json
+- this file: https://blagwatango.github.io/catalog/llms.txt
+- schema.org: https://blagwatango.github.io/catalog/product.jsonld
+
+## Product
+
+- Name: Watango September 2026 Sky Month | Moon Journal
+- SKU: WAT-SKY-2026-09
+- Kind: journal (not Key, not grimoire, not Meridian)
+- What it is: A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.
+- Who it is for: Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.
+- Price: 10.00 USD
+- File: Watango-September-2026-for-sale.pdf (32 letter pages, ~18.7 MB)
+- Till: Etsy
+- Buy URL: https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon
+
+## Checkout
+
+One buy URL. Instant digital PDF after purchase.
