@@ -1,0 +1,52 @@
+{
+  "house": "Watango",
+  "catalog": "https://blagwatango.github.io/catalog/",
+  "feeds": {
+    "products": "https://blagwatango.github.io/catalog/products.json",
+    "llms": "https://blagwatango.github.io/catalog/llms.txt",
+    "schema": "https://blagwatango.github.io/catalog/product.jsonld"
+  },
+  "engine": "Swiss Ephemeris",
+  "zodiac": "tropical",
+  "timezone": "UTC",
+  "art": {
+    "policy": "NASA/Hubble/JWST plates on title pages only, credit required, no AI pictures",
+    "ai_art": false
+  },
+  "products": [
+    {
+      "sku": "WAT-SKY-2026-09",
+      "name": "Watango September 2026 Sky Month | Moon Journal",
+      "kind": "journal",
+      "not": [
+        "Key",
+        "grimoire",
+        "Meridian"
+      ],
+      "description": "A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.",
+      "for": "Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.",
+      "price_usd": 10,
+      "currency": "USD",
+      "buy": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
+      "buy_url": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
+      "till": "Etsy",
+      "tills": [
+        "Etsy"
+      ],
+      "tills_note": "Till is Etsy. One listing. buy is the live listing URL.",
+      "format": "digital PDF",
+      "file": "Watango-September-2026-for-sale.pdf",
+      "pages": 32,
+      "trim": "letter",
+      "size_mb": 18.7,
+      "fulfill": "instant digital download after purchase",
+      "clock": {
+        "engine": "Swiss Ephemeris",
+        "zodiac": "tropical",
+        "timezone": "UTC",
+        "rule": "Noon UTC numbers. Sky lines are direction, not a local clock. No rising pin."
+      },
+      "rights": "Watango. Digital download for personal use. Cover plate credit NASA / ESA / CSA / STScI."
+    }
+  ]
+}
