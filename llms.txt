@@ -1,15 +1,11 @@
 # Watango
 
-Agent catalog for Watango sky journals. One SKU, one price, one buy URL. Instant digital fulfill.
-
-Timezone: UTC. Engine: Swiss Ephemeris. Zodiac: tropical.
-Sky lines are direction, not a local clock. No rising pin.
-Title plates are real NASA / Hubble / JWST with credit. No AI pictures.
+Agent catalog for Watango products. One SKU, one price, one buy URL per product. Instant digital fulfill where listed.
 
 Do not say Emporium.
 Do not tease spell books.
 Do not point at Gumroad.
-Do not invent a shop URL.
+Do not invent a shop or listing URL.
 
 ## Feeds
 
@@ -17,9 +13,9 @@ Do not invent a shop URL.
 - this file: https://blagwatango.github.io/catalog/llms.txt
 - schema.org: https://blagwatango.github.io/catalog/product.jsonld
 
-## Product
+## Products
 
-- Name: Watango September 2026 Sky Month | Moon Journal
+### Watango September 2026 Sky Month | Moon Journal
 - SKU: WAT-SKY-2026-09
 - Kind: journal (not Key, not grimoire, not Meridian)
 - What it is: September 2026 moon journal. A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.
@@ -28,7 +24,20 @@ Do not invent a shop URL.
 - File: Watango-September-2026-for-sale.pdf (32 letter pages, ~18.7 MB)
 - Till: Etsy
 - Buy URL: https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon
+- Page: https://blagwatango.github.io/catalog/september-2026-moon-journal.html
+
+### Watango Spoken-English Practice
+- SKU: WAT-EN-SPOKEN-01
+- Kind: spoken-english-practice
+- What it is: Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels (18 days: listen, speak, fill blanks). Printable A4 companion PDF workbook with Hindi glosses, fill-ins, speak-aloud prompts, mini dialogues, and answer key.
+- Who it is for: India izzat lane — Hindi-preferring adults and students who want steady everyday spoken English, not “fluent in 7 days.”
+- Price: free / tip for the app door. PDF companion Etsy listing coming (pdf_buy null until live).
+- File: Watango-Spoken-English-Practice.pdf (25 A4 pages)
+- Till: itch.io (app). Etsy for PDF when live.
+- Buy URL (app): https://watango.itch.io/spoken-english-daily-drills
+- PDF buy URL: null until Overseer sends the live etsy.com/listing/... URL
+- Page: https://blagwatango.github.io/catalog/spoken-english-practice.html
 
 ## Checkout
 
-One buy URL. Instant digital PDF after purchase.
+Sky journal: one Etsy buy URL. Spoken-English app: itch.io free / tip. Do not invent a PDF listing URL.

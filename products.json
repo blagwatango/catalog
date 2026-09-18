@@ -6,13 +6,6 @@
     "llms": "https://blagwatango.github.io/catalog/llms.txt",
     "schema": "https://blagwatango.github.io/catalog/product.jsonld"
   },
-  "engine": "Swiss Ephemeris",
-  "zodiac": "tropical",
-  "timezone": "UTC",
-  "art": {
-    "policy": "NASA/Hubble/JWST plates on title pages only, credit required, no AI pictures",
-    "ai_art": false
-  },
   "products": [
     {
       "sku": "WAT-SKY-2026-09",
@@ -46,7 +39,44 @@
         "timezone": "UTC",
         "rule": "Noon UTC numbers. Sky lines are direction, not a local clock. No rising pin."
       },
+      "art": {
+        "policy": "NASA/Hubble/JWST plates on title pages only, credit required, no AI pictures",
+        "ai_art": false
+      },
       "rights": "Watango. Digital download for personal use. Cover plate credit NASA / ESA / CSA / STScI."
+    },
+    {
+      "sku": "WAT-EN-SPOKEN-01",
+      "name": "Watango Spoken-English Practice",
+      "kind": "spoken-english-practice",
+      "not": [
+        "Emporium",
+        "Meridian",
+        "spell book"
+      ],
+      "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. India izzat lane. Everyday phrases only — not medical, visa, or legal advice.",
+      "for": "Hindi-preferring adults and students who want steady spoken English practice (greetings, shop, phone, directions, food order, interview basics, office small talk).",
+      "price_usd": 0,
+      "currency": "USD",
+      "price_note": "App door is free / tip on itch. PDF companion Etsy listing coming; pdf_buy stays null until live.",
+      "buy": "https://watango.itch.io/spoken-english-daily-drills",
+      "buy_url": "https://watango.itch.io/spoken-english-daily-drills",
+      "pdf_buy": null,
+      "pdf_buy_url": null,
+      "till": "itch.io",
+      "tills": [
+        "itch.io",
+        "Etsy"
+      ],
+      "tills_note": "Primary till is itch.io for the offline app (free / tip). PDF companion goes on Etsy when Overseer sends the listing URL.",
+      "format": "offline HTML5 app + printable A4 PDF companion",
+      "file": "Watango-Spoken-English-Practice.pdf",
+      "app_door": "https://watango.itch.io/spoken-english-daily-drills",
+      "pages": 25,
+      "trim": "A4",
+      "units": 18,
+      "fulfill": "instant app play on itch; PDF instant digital download when Etsy listing is live",
+      "rights": "Watango. Personal use. Everyday phrase practice only."
     }
   ]
 }

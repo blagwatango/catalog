@@ -1,70 +1,61 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "sku": "WAT-SKY-2026-09",
-  "name": "Watango September 2026 Sky Month | Moon Journal",
-  "brand": {
-    "@type": "Brand",
-    "name": "Watango"
-  },
-  "category": "Journal",
-  "description": "A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines. Swiss Ephemeris, tropical zodiac, UTC. Not a spell book. Not Meridian.",
-  "audience": {
-    "@type": "Audience",
-    "audienceType": "People who want one month of sky they can write in"
-  },
-  "isFamilyFriendly": true,
-  "additionalProperty": [
+  "@type": "ItemList",
+  "name": "Watango catalog",
+  "url": "https://blagwatango.github.io/catalog/",
+  "numberOfItems": 2,
+  "itemListElement": [
     {
-      "@type": "PropertyValue",
-      "name": "engine",
-      "value": "Swiss Ephemeris"
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "sku": "WAT-SKY-2026-09",
+        "name": "Watango September 2026 Sky Month | Moon Journal",
+        "brand": {
+          "@type": "Brand",
+          "name": "Watango"
+        },
+        "category": "Journal",
+        "description": "September 2026 moon journal. A month of sky you can write in. One page a day. Swiss Ephemeris. UTC. Instant PDF.",
+        "offers": {
+          "@type": "Offer",
+          "price": "10.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
+          "seller": {
+            "@type": "Organization",
+            "name": "Watango"
+          }
+        }
+      }
     },
     {
-      "@type": "PropertyValue",
-      "name": "zodiac",
-      "value": "tropical"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "timezone",
-      "value": "UTC"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "clock",
-      "value": "Noon UTC. Sky lines are direction, not a local clock. No rising pin."
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "pages",
-      "value": 32
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "trim",
-      "value": "letter"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "file",
-      "value": "Watango-September-2026-for-sale.pdf"
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "sku": "WAT-EN-SPOKEN-01",
+        "name": "Watango Spoken-English Practice",
+        "brand": {
+          "@type": "Brand",
+          "name": "Watango"
+        },
+        "category": "EducationalApplication",
+        "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. Everyday phrases only.",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://watango.itch.io/spoken-english-daily-drills",
+          "seller": {
+            "@type": "Organization",
+            "name": "Watango"
+          }
+        }
+      }
     }
-  ],
-  "offers": {
-    "@type": "Offer",
-    "price": "10.00",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
-    "seller": {
-      "@type": "Organization",
-      "name": "Watango"
-    }
-  },
-  "copyrightHolder": {
-    "@type": "Organization",
-    "name": "Watango"
-  },
-  "creditText": "Cover plate NASA / ESA / CSA / STScI"
+  ]
 }
