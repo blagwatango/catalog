@@ -8,14 +8,34 @@
   },
   "products": [
     {
+      "sku": "WAT-SKY-2026-10",
+      "name": "Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+      "kind": "journal",
+      "not": ["Key", "grimoire", "Meridian"],
+      "description": "October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris, tropical zodiac, UTC. Instant digital PDF.",
+      "for": "Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.",
+      "price_usd": 10,
+      "currency": "USD",
+      "buy": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+      "buy_url": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+      "till": "Etsy",
+      "tills": ["Etsy"],
+      "tills_note": "Till is Etsy. One listing. buy is the live listing URL.",
+      "format": "digital PDF",
+      "fulfill": "instant digital download after purchase",
+      "clock": {
+        "engine": "Swiss Ephemeris",
+        "zodiac": "tropical",
+        "timezone": "UTC",
+        "rule": "Sky lines are direction, not a local clock. No rising pin."
+      },
+      "rights": "Watango. Digital download for personal use."
+    },
+    {
       "sku": "WAT-SKY-2026-09",
       "name": "Watango September 2026 Sky Month | Moon Journal",
       "kind": "journal",
-      "not": [
-        "Key",
-        "grimoire",
-        "Meridian"
-      ],
+      "not": ["Key", "grimoire", "Meridian"],
       "description": "September 2026 moon journal. A month of sky you can write in. Cover + calendar + one page per day. Noon UTC numbers, a porch line by direction, Daily reflection lines.",
       "for": "Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.",
       "price_usd": 10,
@@ -23,9 +43,7 @@
       "buy": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
       "buy_url": "https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon",
       "till": "Etsy",
-      "tills": [
-        "Etsy"
-      ],
+      "tills": ["Etsy"],
       "tills_note": "Till is Etsy. One listing. buy is the live listing URL.",
       "format": "digital PDF",
       "file": "Watango-September-2026-for-sale.pdf",
@@ -49,12 +67,8 @@
       "sku": "WAT-EN-SPOKEN-01",
       "name": "Watango Spoken-English Practice",
       "kind": "spoken-english-practice",
-      "not": [
-        "Emporium",
-        "Meridian",
-        "spell book"
-      ],
-      "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. India izzat lane. Everyday phrases only — not medical, visa, or legal advice.",
+      "not": ["Emporium", "Meridian", "spell book"],
+      "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. India izzat lane. Everyday phrases only \u2014 not medical, visa, or legal advice.",
       "for": "Hindi-preferring adults and students who want steady spoken English practice (greetings, shop, phone, directions, food order, interview basics, office small talk).",
       "price_usd": 0,
       "currency": "USD",
@@ -64,10 +78,7 @@
       "pdf_buy": null,
       "pdf_buy_url": null,
       "till": "itch.io",
-      "tills": [
-        "itch.io",
-        "Etsy"
-      ],
+      "tills": ["itch.io", "Etsy"],
       "tills_note": "Primary till is itch.io for the offline app (free / tip). PDF companion goes on Etsy when Overseer sends the listing URL.",
       "format": "offline HTML5 app + printable A4 PDF companion",
       "file": "Watango-Spoken-English-Practice.pdf",
