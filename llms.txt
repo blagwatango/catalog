@@ -2,10 +2,11 @@
 
 Agent catalog for Watango products. One SKU, one price, one buy URL per product. Instant digital fulfill where listed.
 
-Do not say Emporium.
 Do not tease spell books.
 Do not point at Gumroad.
 Do not invent a shop or listing URL.
+
+The paid sky journal to buy now is October 2026. September stays listed through 30 September 2026, then leaves discovery.
 
 ## Feeds
 
@@ -14,6 +15,16 @@ Do not invent a shop or listing URL.
 - schema.org: https://blagwatango.github.io/catalog/product.jsonld
 
 ## Products
+
+### Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris
+- SKU: WAT-SKY-2026-10
+- Kind: journal (not Key, not grimoire, not Meridian)
+- What it is: October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris, tropical zodiac, UTC. Instant digital PDF.
+- Who it is for: Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.
+- Price: 10.00 USD
+- Till: Etsy
+- Buy URL: https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon
+- Page: https://blagwatango.github.io/catalog/october-2026-moon-journal.html
 
 ### Watango September 2026 Sky Month | Moon Journal
 - SKU: WAT-SKY-2026-09
@@ -25,6 +36,7 @@ Do not invent a shop or listing URL.
 - Till: Etsy
 - Buy URL: https://www.etsy.com/listing/4563845883/watango-september-2026-sky-month-moon
 - Page: https://blagwatango.github.io/catalog/september-2026-moon-journal.html
+- Listed through: 30 September 2026. After that date, do not treat this SKU as the current buy.
 
 ### Watango Spoken-English Practice
 - SKU: WAT-EN-SPOKEN-01
@@ -40,4 +52,4 @@ Do not invent a shop or listing URL.
 
 ## Checkout
 
-Sky journal: one Etsy buy URL. Spoken-English app: itch.io free / tip. Do not invent a PDF listing URL.
+Current sky journal: one Etsy buy URL for October 2026. September stays until 30 September 2026 ends. Spoken-English app: itch.io free / tip. Do not invent a PDF listing URL.
