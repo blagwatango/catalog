@@ -3,25 +3,31 @@
   "@type": "ItemList",
   "name": "Watango catalog",
   "url": "https://blagwatango.github.io/catalog/",
-  "numberOfItems": 2,
+  "numberOfItems": 3,
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "item": {
         "@type": "Product",
-        "sku": "WAT-SKY-2026-10",
-        "name": "Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris",
-        "brand": {"@type": "Brand", "name": "Watango"},
+        "sku": "WAT-SKY-2026-11",
+        "name": "Watango November 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+        "brand": {
+          "@type": "Brand",
+          "name": "Watango"
+        },
         "category": "Journal",
-        "description": "October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris. UTC. Instant PDF.",
+        "description": "November 2026 moon journal. A month of sky you can write in. Swiss Ephemeris. UTC. Instant PDF.",
         "offers": {
           "@type": "Offer",
           "price": "10.00",
           "priceCurrency": "USD",
           "availability": "https://schema.org/InStock",
-          "url": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
-          "seller": {"@type": "Organization", "name": "Watango"}
+          "url": "https://www.etsy.com/listing/4591920830/watango-november-2026-sky-month-moon",
+          "seller": {
+            "@type": "Organization",
+            "name": "Watango"
+          }
         }
       }
     },
@@ -30,9 +36,38 @@
       "position": 2,
       "item": {
         "@type": "Product",
+        "sku": "WAT-SKY-2026-10",
+        "name": "Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+        "brand": {
+          "@type": "Brand",
+          "name": "Watango"
+        },
+        "category": "Journal",
+        "description": "October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris. UTC. Instant PDF.",
+        "offers": {
+          "@type": "Offer",
+          "price": "10.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+          "seller": {
+            "@type": "Organization",
+            "name": "Watango"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
         "sku": "WAT-EN-SPOKEN-01",
         "name": "Watango Spoken-English Practice",
-        "brand": {"@type": "Brand", "name": "Watango"},
+        "brand": {
+          "@type": "Brand",
+          "name": "Watango"
+        },
         "category": "EducationalApplication",
         "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. Everyday phrases only.",
         "offers": {
@@ -41,7 +76,10 @@
           "priceCurrency": "USD",
           "availability": "https://schema.org/InStock",
           "url": "https://watango.itch.io/spoken-english-daily-drills",
-          "seller": {"@type": "Organization", "name": "Watango"}
+          "seller": {
+            "@type": "Organization",
+            "name": "Watango"
+          }
         }
       }
     }

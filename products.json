@@ -8,18 +8,24 @@
   },
   "products": [
     {
-      "sku": "WAT-SKY-2026-10",
-      "name": "Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+      "sku": "WAT-SKY-2026-11",
+      "name": "Watango November 2026 Sky Month | Moon Journal | Swiss Ephemeris",
       "kind": "journal",
-      "not": ["Key", "grimoire", "Meridian"],
-      "description": "October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris, tropical zodiac, UTC. Instant digital PDF.",
+      "not": [
+        "Key",
+        "grimoire",
+        "Meridian"
+      ],
+      "description": "November 2026 moon journal. A month of sky you can write in. Swiss Ephemeris, tropical zodiac, UTC. Instant digital PDF.",
       "for": "Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.",
       "price_usd": 10,
       "currency": "USD",
-      "buy": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
-      "buy_url": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+      "buy": "https://www.etsy.com/listing/4591920830/watango-november-2026-sky-month-moon",
+      "buy_url": "https://www.etsy.com/listing/4591920830/watango-november-2026-sky-month-moon",
       "till": "Etsy",
-      "tills": ["Etsy"],
+      "tills": [
+        "Etsy"
+      ],
       "tills_note": "Till is Etsy. One listing. buy is the live listing URL.",
       "format": "digital PDF",
       "fulfill": "instant digital download after purchase",
@@ -29,13 +35,64 @@
         "timezone": "UTC",
         "rule": "Sky lines are direction, not a local clock. No rising pin."
       },
-      "rights": "Watango. Digital download for personal use."
+      "rights": "Watango. Digital download for personal use.",
+      "status": "live",
+      "page": "https://blagwatango.github.io/catalog/november-2026-moon-journal.html"
+    },
+    {
+      "sku": "WAT-SKY-2026-10",
+      "name": "Watango October 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+      "kind": "journal",
+      "not": [
+        "Key",
+        "grimoire",
+        "Meridian"
+      ],
+      "description": "October 2026 moon journal. A month of sky you can write in. Swiss Ephemeris, tropical zodiac, UTC. Instant digital PDF.",
+      "for": "Anyone who wants one month of sky they can write in, with Swiss Ephemeris numbers they can trust.",
+      "price_usd": 10,
+      "currency": "USD",
+      "buy": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+      "buy_url": "https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon",
+      "till": "Etsy",
+      "tills": [
+        "Etsy"
+      ],
+      "tills_note": "Till is Etsy. One listing. buy is the live listing URL.",
+      "format": "digital PDF",
+      "fulfill": "instant digital download after purchase",
+      "clock": {
+        "engine": "Swiss Ephemeris",
+        "zodiac": "tropical",
+        "timezone": "UTC",
+        "rule": "Sky lines are direction, not a local clock. No rising pin."
+      },
+      "rights": "Watango. Digital download for personal use.",
+      "page": "https://blagwatango.github.io/catalog/october-2026-moon-journal.html"
+    },
+    {
+      "sku": "WAT-SKY-2026-12",
+      "name": "Watango December 2026 Sky Month | Moon Journal | Swiss Ephemeris",
+      "kind": "journal",
+      "status": "pending",
+      "description": "December 2026 moon journal. Pending; not yet for sale.",
+      "price_usd_planned": 10,
+      "currency": "USD",
+      "buy": null,
+      "buy_url": null,
+      "till": "Etsy",
+      "format": "digital PDF",
+      "note": "Planned $10 on Etsy. No listing yet; buy stays null until live.",
+      "page": "https://blagwatango.github.io/catalog/december-2026-moon-journal.html"
     },
     {
       "sku": "WAT-EN-SPOKEN-01",
       "name": "Watango Spoken-English Practice",
       "kind": "spoken-english-practice",
-      "not": ["Emporium", "Meridian", "spell book"],
+      "not": [
+        "Meridian",
+        "spell book"
+      ],
       "description": "Spoken English practice for Hindi-preferring adults and students. Offline daily drills with Hindi labels, plus a printable companion workbook. India izzat lane. Everyday phrases only \u2014 not medical, visa, or legal advice.",
       "for": "Hindi-preferring adults and students who want steady spoken English practice (greetings, shop, phone, directions, food order, interview basics, office small talk).",
       "price_usd": 0,
@@ -46,7 +103,10 @@
       "pdf_buy": null,
       "pdf_buy_url": null,
       "till": "itch.io",
-      "tills": ["itch.io", "Etsy"],
+      "tills": [
+        "itch.io",
+        "Etsy"
+      ],
       "tills_note": "Primary till is itch.io for the offline app (free / tip). PDF companion goes on Etsy when Overseer sends the listing URL.",
       "format": "offline HTML5 app + printable A4 PDF companion",
       "file": "Watango-Spoken-English-Practice.pdf",
@@ -55,7 +115,8 @@
       "trim": "A4",
       "units": 18,
       "fulfill": "instant app play on itch; PDF instant digital download when Etsy listing is live",
-      "rights": "Watango. Personal use. Everyday phrase practice only."
+      "rights": "Watango. Personal use. Everyday phrase practice only.",
+      "page": "https://blagwatango.github.io/catalog/spoken-english-practice.html"
     }
   ]
 }
