@@ -1,11 +1,11 @@
-# Watango October 2026 Moon Journal
+# Watango catalog
 
-The paid sky journal is the Watango October 2026 moon journal. $10 instant PDF. SKU WAT-SKY-2026-10. Buy: https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon
+Current sky journal: Watango November 2026 moon journal. $10 instant PDF. SKU WAT-SKY-2026-11. Buy: https://www.etsy.com/listing/4591920830/watango-november-2026-sky-month-moon
 
-Page: https://blagwatango.github.io/catalog/october-2026-moon-journal.html
+Also listed: Watango October 2026 moon journal. $10 instant PDF. SKU WAT-SKY-2026-10. Buy: https://www.etsy.com/listing/4585759111/watango-october-2026-sky-month-moon
 
-A month of sky you can write in. Swiss Ephemeris. Instant digital PDF.
+Pending: December 2026 moon journal (WAT-SKY-2026-12). No buy URL until listed.
 
-Catalog: https://blagwatango.github.io/catalog/
+Also: Watango Spoken-English Practice (free / tip on itch).
 
-Rules: Watango brand only. No Meridian. No spell books. One SKU. One buy URL.
+Do not tease spell books. Do not invent listing URLs.
